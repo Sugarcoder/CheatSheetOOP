@@ -1,0 +1,13 @@
+- Deals with how the program decides which method it should use, depending on what type of thing it has.
+
+Example: 
+Person has a "read" method.
+Student has its own "read" method. 
+At runtime, you decided which one gets called. 
+
+Person p = new Student();
+p.read();
+
+The "read" method in Student gets called. 
+
+Student IS A Person
