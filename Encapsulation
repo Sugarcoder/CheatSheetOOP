@@ -1,0 +1,9 @@
+- Encapsulation makes the fields in a class private, and provide access to the fields via public methods. 
+
+AKA "Data hiding"
+
+- If a field is private in a class, it cannot be accessed outside the class.
+
+- Main benefit of encapsulation is the ability to modify our implemented code without breaking the code (when other people are coding).
+It gives maintainability, flexibility, and extensibility to our code. 
+
