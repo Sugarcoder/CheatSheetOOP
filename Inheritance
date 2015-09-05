@@ -1,0 +1,10 @@
+- When a class derices from an existing class. 
+
+Example: 
+Person class (aka 'super' class) 
+Student class (subclass) extends from Person. 
+Student inherits all the thinds that Person has. 
+
+- Private fields are not visible to subclasses.
+
+'Car IS A automobile' (IS A relationship)
