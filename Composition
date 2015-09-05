@@ -1,0 +1,9 @@
+- A design correlation between two classes that is based on "HAS A" relationship.
+
+- Cat "HAS A" tail
+
+- Java composition is achieved by using instance variables that refer to other objects.
+
+- Benefit of using composition is that we can control the visibility of other object to client classes and reuse only what we need. 
+
+
